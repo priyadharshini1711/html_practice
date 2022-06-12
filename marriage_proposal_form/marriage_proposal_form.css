@@ -1,0 +1,15 @@
+main {
+    width: 80%;
+    border: black solid 2px;
+    margin: auto;
+    border-radius: 25px;
+    background-color: white;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.heading {
+    text-align: center;
+}

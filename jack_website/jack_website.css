@@ -1,0 +1,18 @@
+.heading-style {
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+}
+
+.image-style {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-style {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
